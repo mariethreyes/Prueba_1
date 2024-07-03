@@ -1,2 +1,2 @@
 # Prueba_1
-Este repositorio es una prueba
+Este repositorio no es una prueba
